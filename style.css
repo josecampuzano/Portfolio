@@ -5,7 +5,7 @@ h1 {
 }
 
 
-nav {
+nav > h1 {
   margin: 0;
   background-color: #6ABADA;
   text-align: center;
