@@ -1,6 +1,10 @@
 body { 
  background-color: #6ABADA; 
 }
+
+header { 
+ height: 20;
+}
   
 /* Title Section */
 
