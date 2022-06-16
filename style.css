@@ -3,3 +3,11 @@ h1 {
   background-color: #eee;
   text-align: center;
 }
+
+
+nav {
+  margin: 0;
+  background-color: #6ABADA;
+  text-align: center;
+  font-family: sans-serif
+}
