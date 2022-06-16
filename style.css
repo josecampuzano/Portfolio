@@ -7,11 +7,13 @@ h1 {
 }
 
 h2 {
+  margin: 0;
   text-align: center;
   font-family: Arial, sans-serif;
 }
 
 h3 { 
+margin: 0;
 background-color: #6ABADA;
 font-family: Arial, sans-serif;
 color: #FFFFFF; 
