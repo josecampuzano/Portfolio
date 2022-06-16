@@ -2,13 +2,17 @@ h1 {
   margin: 0;
   background-color: #eee;
   text-align: center;
+  font-family: Arial, sans-serif;
 }
 
 h2 {
   text-align: center;
+  font-family: Arial, sans-serif;
 }
 
 h3 { 
 background-color: #6ABADA;
+font-family: Arial, sans-serif;
+font-color: white; 
 }  
 
