@@ -33,6 +33,10 @@ font-family: Arial, sans-serif;
 color: #FFFFFF; 
 }  
 
+main section { 
+ height: 800px;
+}
+
 
 /* For Links */
 
