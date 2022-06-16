@@ -17,3 +17,9 @@ font-family: Arial, sans-serif;
 color: #FFFFFF; 
 }  
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
